@@ -70,7 +70,7 @@ margin-bottom: 25px;
 
 }
 
-.about-description {
+.about-descriptionf {
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
@@ -325,7 +325,7 @@ font-size: 14px;
 line-height: 24px;
 
 
-color: var(--contact-link-color);
+color: var(--body-color);
 
 
 }
@@ -334,7 +334,7 @@ color: var(--contact-link-color);
 .contact-link:focus
 {
     text-decoration: none;
-    color: var(--primery-fon-color);
+    color: var(--accent-color--);
 }
 
 .tech-skills-list,
